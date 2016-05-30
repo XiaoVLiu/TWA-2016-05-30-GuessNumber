@@ -1,0 +1,19 @@
+{
+  "name": "guess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaoVLiu/TWA-2016-05-30-GuessNumber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiaoVLiu/TWA-2016-05-30-GuessNumber/issues"
+  },
+  "homepage": "https://github.com/XiaoVLiu/TWA-2016-05-30-GuessNumber#readme"
+}
