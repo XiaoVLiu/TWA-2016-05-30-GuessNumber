@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "./node_modules/.bin/jasmine"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/XiaoVLiu/TWA-2016-05-30-GuessNumber/issues"
   },
-  "homepage": "https://github.com/XiaoVLiu/TWA-2016-05-30-GuessNumber#readme"
+  "homepage": "https://github.com/XiaoVLiu/TWA-2016-05-30-GuessNumber#readme",
+  "dependencies": {
+    "jasmine": "^2.4.1"
+  }
 }
